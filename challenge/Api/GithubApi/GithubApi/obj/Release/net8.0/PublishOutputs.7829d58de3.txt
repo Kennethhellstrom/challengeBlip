@@ -1,0 +1,12 @@
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\GithubApi.exe
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\GithubApi.dll
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\GithubApi.deps.json
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\GithubApi.runtimeconfig.json
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\GithubApi.pdb
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kenne\Desktop\Projetos\GitHubApi\Api\GithubApi\GithubApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
