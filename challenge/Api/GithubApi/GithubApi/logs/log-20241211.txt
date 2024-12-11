@@ -1,0 +1,52 @@
+2024-12-11 18:07:46.917 -03:00 [INF] Now listening on: https://localhost:7263
+2024-12-11 18:07:46.956 -03:00 [INF] Now listening on: http://localhost:5213
+2024-12-11 18:07:46.969 -03:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-12-11 18:07:47.080 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-11 18:07:47.082 -03:00 [INF] Hosting environment: Development
+2024-12-11 18:07:47.083 -03:00 [INF] Content root path: C:\Users\kenne\Desktop\Projetos\challenge\challenge\Api\GithubApi\GithubApi
+2024-12-11 18:07:48.449 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/swagger - null null
+2024-12-11 18:07:48.669 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/swagger - 301 0 null 233.6546ms
+2024-12-11 18:07:48.678 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/swagger/index.html - null null
+2024-12-11 18:07:48.778 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/swagger/index.html - 200 null text/html;charset=utf-8 99.9993ms
+2024-12-11 18:07:48.812 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/swagger/swagger-ui.css - null null
+2024-12-11 18:07:48.822 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/swagger/swagger-ui-bundle.js - null null
+2024-12-11 18:07:48.822 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-11 18:07:48.822 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/swagger/swagger-ui-standalone-preset.js - null null
+2024-12-11 18:07:48.822 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/_vs/browserLink - null null
+2024-12-11 18:07:48.878 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/_framework/aspnetcore-browser-refresh.js - 200 13754 application/javascript; charset=utf-8 30.3144ms
+2024-12-11 18:07:48.909 -03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-12-11 18:07:48.909 -03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-12-11 18:07:48.914 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/swagger/swagger-ui.css - 200 143943 text/css 102.4389ms
+2024-12-11 18:07:48.914 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 91.703ms
+2024-12-11 18:07:48.935 -03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-12-11 18:07:48.937 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 114.5723ms
+2024-12-11 18:07:49.007 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/_vs/browserLink - 200 null text/javascript; charset=UTF-8 185.172ms
+2024-12-11 18:07:49.190 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/swagger/v1/swagger.json - null null
+2024-12-11 18:07:49.248 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 58.3752ms
+2024-12-11 18:07:53.256 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/api/repositories - null null
+2024-12-11 18:07:53.271 -03:00 [INF] Executing endpoint 'HTTP: GET /api/repositories'
+2024-12-11 18:07:53.287 -03:00 [INF] Iniciando busca pelos repositórios mais antigos...
+2024-12-11 18:07:53.304 -03:00 [INF] Start processing HTTP request GET https://api.github.com/orgs/takenet/repos
+2024-12-11 18:07:53.308 -03:00 [INF] Sending HTTP request GET https://api.github.com/orgs/takenet/repos
+2024-12-11 18:07:54.015 -03:00 [INF] Received HTTP response headers after 704.7ms - 200
+2024-12-11 18:07:54.018 -03:00 [INF] End processing HTTP request after 715.9507ms - 200
+2024-12-11 18:07:54.181 -03:00 [INF] Repositórios recuperados com sucesso.
+2024-12-11 18:07:54.189 -03:00 [INF] Setting HTTP status code 200.
+2024-12-11 18:07:54.195 -03:00 [INF] Writing value of type 'OrderedPartition`1' as Json.
+2024-12-11 18:07:54.205 -03:00 [INF] Executed endpoint 'HTTP: GET /api/repositories'
+2024-12-11 18:07:54.207 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/api/repositories - 200 null application/json; charset=utf-8 951.9859ms
+2024-12-11 18:08:10.130 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/api/repositories - null null
+2024-12-11 18:08:10.137 -03:00 [INF] Executing endpoint 'HTTP: GET /api/repositories'
+2024-12-11 18:08:10.138 -03:00 [INF] Iniciando busca pelos repositórios mais antigos...
+2024-12-11 18:08:10.139 -03:00 [INF] Start processing HTTP request GET https://api.github.com/orgs/takenet/repos
+2024-12-11 18:08:10.140 -03:00 [INF] Sending HTTP request GET https://api.github.com/orgs/takenet/repos
+2024-12-11 18:08:10.190 -03:00 [INF] Received HTTP response headers after 49.4415ms - 200
+2024-12-11 18:08:10.192 -03:00 [INF] End processing HTTP request after 53.5942ms - 200
+2024-12-11 18:08:10.196 -03:00 [INF] Repositórios recuperados com sucesso.
+2024-12-11 18:08:10.197 -03:00 [INF] Setting HTTP status code 200.
+2024-12-11 18:08:10.198 -03:00 [INF] Writing value of type 'OrderedPartition`1' as Json.
+2024-12-11 18:08:10.199 -03:00 [INF] Executed endpoint 'HTTP: GET /api/repositories'
+2024-12-11 18:08:10.200 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/api/repositories - 200 null application/json; charset=utf-8 69.6756ms
+2024-12-11 18:08:10.229 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7263/favicon.ico - null null
+2024-12-11 18:08:10.232 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7263/favicon.ico - 404 0 null 3.9159ms
+2024-12-11 18:08:10.235 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7263/favicon.ico, Response status code: 404

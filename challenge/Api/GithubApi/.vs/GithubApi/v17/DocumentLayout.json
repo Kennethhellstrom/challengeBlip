@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\",
+  "WorkspaceRootPath": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\githubapi\\api\\githubapi\\githubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\challenge\\challenge\\api\\githubapi\\githubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\githubapi\\api\\githubapi\\githubapi\\repository\\repositoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\repository\\repositoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\githubapi\\api\\githubapi\\githubapi\\repository\\interfaces\\irepositoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\repository\\interfaces\\irepositoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\githubapi\\api\\githubapi\\githubapi\\repository\\githubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\challenge\\challenge\\api\\githubapi\\githubapi\\repository\\githubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\repository\\githubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\githubapi\\api\\githubapi\\githubapi\\githubapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\challenge\\challenge\\api\\githubapi\\githubapi\\models\\githubrepositoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\models\\githubrepositoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\challenge\\challenge\\api\\githubapi\\githubapi\\githubapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\githubapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\githubapi\\api\\githubapi\\githubapi\\repository\\interfaces\\igithubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\repository\\interfaces\\igithubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\challenge\\challenge\\api\\githubapi\\githubapi\\repository\\interfaces\\irepositoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\repository\\interfaces\\irepositoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\githubapi\\api\\githubapi\\githubapi\\models\\githubrepositoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\models\\githubrepositoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\challenge\\challenge\\api\\githubapi\\githubapi\\repository\\repositoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\repository\\repositoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|c:\\users\\kenne\\desktop\\projetos\\challenge\\challenge\\api\\githubapi\\githubapi\\repository\\interfaces\\igithubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8555894D-3F4E-4F92-AB5A-AD98270F62F8}|GithubApi\\GithubApi.csproj|solutionrelative:githubapi\\repository\\interfaces\\igithubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RepositoriesService.cs",
-              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Repository\\RepositoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Repository\\RepositoriesService.cs",
               "RelativeDocumentMoniker": "GithubApi\\Repository\\RepositoriesService.cs",
-              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Repository\\RepositoriesService.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Repository\\RepositoriesService.cs",
               "RelativeToolTip": "GithubApi\\Repository\\RepositoriesService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,24 +55,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IRepositoriesService.cs",
-              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Repository\\Interfaces\\IRepositoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Repository\\Interfaces\\IRepositoriesService.cs",
               "RelativeDocumentMoniker": "GithubApi\\Repository\\Interfaces\\IRepositoriesService.cs",
-              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Repository\\Interfaces\\IRepositoriesService.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Repository\\Interfaces\\IRepositoriesService.cs",
               "RelativeToolTip": "GithubApi\\Repository\\Interfaces\\IRepositoriesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T21:07:59.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GithubRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Repository\\GithubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Repository\\GithubRepository.cs",
               "RelativeDocumentMoniker": "GithubApi\\Repository\\GithubRepository.cs",
-              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Repository\\GithubRepository.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Repository\\GithubRepository.cs",
               "RelativeToolTip": "GithubApi\\Repository\\GithubRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,11 +81,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IGithubRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Repository\\Interfaces\\IGithubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Repository\\Interfaces\\IGithubRepository.cs",
               "RelativeDocumentMoniker": "GithubApi\\Repository\\Interfaces\\IGithubRepository.cs",
-              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Repository\\Interfaces\\IGithubRepository.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Repository\\Interfaces\\IGithubRepository.cs",
               "RelativeToolTip": "GithubApi\\Repository\\Interfaces\\IGithubRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GithubApi",
-              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\GithubApi.csproj",
+              "DocumentIndex": 3,
+              "Title": "GithubApi.csproj",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\GithubApi.csproj",
               "RelativeDocumentMoniker": "GithubApi\\GithubApi.csproj",
-              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\GithubApi.csproj",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\GithubApi.csproj",
               "RelativeToolTip": "GithubApi\\GithubApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -107,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "GithubRepositoryInfo.cs",
-              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Models\\GithubRepositoryInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Models\\GithubRepositoryInfo.cs",
               "RelativeDocumentMoniker": "GithubApi\\Models\\GithubRepositoryInfo.cs",
-              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Models\\GithubRepositoryInfo.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Models\\GithubRepositoryInfo.cs",
               "RelativeToolTip": "GithubApi\\Models\\GithubRepositoryInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +122,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Program.cs",
               "RelativeDocumentMoniker": "GithubApi\\Program.cs",
-              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\GitHubApi\\Api\\GithubApi\\GithubApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Program.cs",
               "RelativeToolTip": "GithubApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T20:28:41.505Z",
               "EditorCaption": ""
