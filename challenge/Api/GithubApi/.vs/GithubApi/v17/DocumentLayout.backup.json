@@ -50,8 +50,7 @@
               "RelativeToolTip": "GithubApi\\Repository\\RepositoriesService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:08:59.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T21:08:59.452Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "GithubApi\\Repository\\Interfaces\\IRepositoriesService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:07:59.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T21:07:59.469Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "GithubApi\\Repository\\GithubRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:51:13.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:51:13.368Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "GithubApi\\Repository\\Interfaces\\IGithubRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:42:56.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:42:56.98Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "GithubApi\\GithubApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-10T20:41:46.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:41:46.746Z"
             },
             {
               "$type": "Document",
@@ -115,8 +110,7 @@
               "RelativeToolTip": "GithubApi\\Models\\GithubRepositoryInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T20:37:42.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T20:37:42.833Z"
             },
             {
               "$type": "Document",
@@ -126,7 +120,7 @@
               "RelativeDocumentMoniker": "GithubApi\\Program.cs",
               "ToolTip": "C:\\Users\\kenne\\Desktop\\Projetos\\challenge\\challenge\\Api\\GithubApi\\GithubApi\\Program.cs",
               "RelativeToolTip": "GithubApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T20:28:41.505Z",
               "EditorCaption": ""
